@@ -1,0 +1,9 @@
+# Class files ignorieren
+*.class
+
+# Ordner ignorieren
+bin/
+target/
+.idea/
+.vscode/
+``
