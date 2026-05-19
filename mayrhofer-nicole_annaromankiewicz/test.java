@@ -1,6 +1,7 @@
 public class Test {
 
 public void thisIsANewMethod() {
+    int test = 9;
     while (test>1) {
         test--;
     }
