@@ -1,6 +1,9 @@
 public class Test {
 
 public void thisIsANewMethod() {
+    while (test>1) {
+        test--;
+    }
 }
     // einfache Methode
     public void hello() {
