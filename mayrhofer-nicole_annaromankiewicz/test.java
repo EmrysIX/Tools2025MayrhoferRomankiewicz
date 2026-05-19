@@ -8,6 +8,7 @@ else return a;
     // einfache Methode
     public void hello() {
         System.out.println("Hello World!");
+	System.out.println("How are you, Nicole?");
     }
 
     // main-Methode zum Ausführen
