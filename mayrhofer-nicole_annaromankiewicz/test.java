@@ -1,6 +1,9 @@
 public class Test {
 
-public void thisIsANewMethod() {
+public int thisIsANewMethod(int a) {
+int number = 10;
+if (number > a) return number;
+else return a; 
 }
     // einfache Methode
     public void hello() {
