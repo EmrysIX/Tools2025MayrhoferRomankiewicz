@@ -4,7 +4,7 @@ public void thisIsANewMethod() {
 }
     // einfache Methode
     public void hello() {
-        System.out.println("Hallo Welt!");
+        System.out.println("Hallo Welt...");
     }
 
     // main-Methode zum Ausführen
