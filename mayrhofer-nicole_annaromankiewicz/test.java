@@ -1,9 +1,16 @@
 public class Test {
 
-public int thisIsANewMethod(int a) {
+public int isIntBiggerTen(int a) {
 int number = 10;
 if (number > a) return number;
 else return a; 
+}
+
+public void test() {
+    int test = 9;
+    while (test>1) {
+        test--;
+    }
 }
     // einfache Methode
     public void hello() {
@@ -15,6 +22,6 @@ else return a;
     public static void main(String[] args) {
         Test t = new Test();
         t.hello();
-	int x = t.number(5);
+	int x = t.isBiggerThanTen(5);
  }
 }
