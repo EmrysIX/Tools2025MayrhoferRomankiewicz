@@ -15,5 +15,6 @@ else return a;
     public static void main(String[] args) {
         Test t = new Test();
         t.hello();
-    }
+	int x = t.number(5);
+ }
 }
