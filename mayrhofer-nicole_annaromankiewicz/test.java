@@ -12,10 +12,6 @@ public void test() {
         test--;
     }
 }
-
-    public static void GriasEich(){
-        System.out.println("Greis di Anna und Nicole :D");
-    }
     // einfache Methode
     public void hello() {
         System.out.println("Hello World!");
@@ -28,6 +24,4 @@ public void test() {
         t.hello();
 	int x = t.isBiggerThanTen(5);
  }
-
-
 }
